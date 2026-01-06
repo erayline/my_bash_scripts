@@ -7,3 +7,4 @@ i only create useful bash scripts
 
 - stopwatch.sh -> i just needed something small and that's measures time when is study
 
+- p-list.sh -> page count and the names of the files in the folder
